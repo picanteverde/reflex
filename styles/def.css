@@ -1,0 +1,15 @@
+*{
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  display: flex;
+  flex-wrap: wrap;
+}
+div.hit{
+  border: 1px solid grey; 
+}
+div.selected{
+  background-color: black;
+}
